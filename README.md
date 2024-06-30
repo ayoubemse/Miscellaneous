@@ -20,6 +20,6 @@ This is a utility script to check if a web site is up and running. I fit is the 
 
 ### stockMarketChecker.py : 
 
-this is a utility script that uses API keys to check the state of a specific stock using a stock market API.
+this is a utility script that uses API keys to check the state of a specific stock using a stock market API. it sends some detailed information about the chosen stock like : the current price, the highest and lowest price during the day...
 
 
